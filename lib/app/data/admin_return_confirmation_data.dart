@@ -1,0 +1,43 @@
+final List adminReturnConfirmationData = [
+  {
+    "invoice_id": "1111",
+    "user_name": "Jane Doe",
+    "user_id": "J1",
+    "product_name": "Glico Pocky Biscuit Stick Strawberry",
+    "Reason": "Defective Item",
+    "Date": "2024-12-02",
+    "status": "Pending",
+  },
+  {
+    "invoice_id": "2222",
+    "user_name": "Ujjwol",
+    "product_name": "Glico Pocky Biscuit Stick Strawberry",
+    "Reason": "Defective Item",
+    "Date": "2024-12-02",
+    "status": "Pending",
+  },
+  {
+    "invoice_id": "3333",
+    "user_name": "Miren",
+    "product_name": "Glico Pocky Biscuit Stick Strawberry",
+    "Reason": "Defective Item",
+    "Date": "2024-12-02",
+    "status": "Pending",
+  },
+  {
+    "invoice_id": "4444",
+    "user_name": "Amrit",
+    "product_name": "Glico Pocky Biscuit Stick Strawberry",
+    "Reason": "Defective Item",
+    "Date": "2024-12-02",
+    "status": "Pending",
+  },
+  {
+    "invoice_id": "5555",
+    "user_name": "Bikash",
+    "product_name": "Glico Pocky Biscuit Stick Strawberry",
+    "Reason": "Defective Item",
+    "Date": "2024-12-02",
+    "status": "Pending",
+  },
+];
